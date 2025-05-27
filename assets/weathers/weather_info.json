@@ -1,0 +1,114 @@
+{
+  "0": {
+    "desc": "晴朗",
+    "icon": "../../assets/weathers/icon/sunny_icon.png"
+  },
+  "1": {
+    "desc": "主要晴朗",
+    "icon": "../../assets/weathers/icon/sunny_icon.png"
+  },
+  "2": {
+    "desc": "局部多云",
+    "icon": "../../assets/weathers/icon/cloudy_icon.png"
+  },
+  "3": {
+    "desc": "阴天",
+    "icon": "../../assets/weathers/icon/cloudy_icon.png"
+  },
+  "45": {
+    "desc": "雾",
+    "icon": "../../assets/weathers/icon/foggy_icon.png"
+  },
+  "48": {
+    "desc": "凝霜雾",
+    "icon": "../../assets/weathers/icon/foggy_icon.png"
+  },
+  "51": {
+    "desc": "轻微雨夹雪",
+    "icon": "../../assets/weathers/icon/rainy_icon.png"
+  },
+  "53": {
+    "desc": "中度雨夹雪",
+    "icon": "../../assets/weathers/icon/rainy_icon.png"
+  },
+  "55": {
+    "desc": "浓密雨夹雪",
+    "icon": "../../assets/weathers/icon/rainy_icon.png"
+  },
+  "56": {
+    "desc": "轻微雾凇毛毛雨",
+    "icon": "../../assets/weathers/icon/rainy_icon.png"
+  },
+  "57": {
+    "desc": "强烈雾凇毛毛雨",
+    "icon": "../../assets/weathers/icon/rainy_icon.png"
+  },
+  "61": {
+    "desc": "小雨",
+    "icon": "../../assets/weathers/icon/rainy_icon.png"
+  },
+  "63": {
+    "desc": "中雨",
+    "icon": "../../assets/weathers/icon/rainy_icon.png"
+  },
+  "65": {
+    "desc": "大雨",
+    "icon": "../../assets/weathers/icon/rainy_icon.png"
+  },
+  "66": {
+    "desc": "轻微雨凇",
+    "icon": "../../assets/weathers/icon/rainy_icon.png"
+  },
+  "67": {
+    "desc": "强烈雨凇",
+    "icon": "../../assets/weathers/icon/rainy_icon.png"
+  },
+  "71": {
+    "desc": "轻微雪落",
+    "icon": "../../assets/weathers/icon/snowy_icon.png"
+  },
+  "73": {
+    "desc": "中度雪落",
+    "icon": "../../assets/weathers/icon/snowy_icon.png"
+  },
+  "75": {
+    "desc": "强烈雪落",
+    "icon": "../../assets/weathers/icon/snowy_icon.png"
+  },
+  "77": {
+    "desc": "雪晶",
+    "icon": "../../assets/weathers/icon/snowy_icon.png"
+  },
+  "80": {
+    "desc": "轻微阵雨",
+    "icon": "../../assets/weathers/icon/rainy_icon.png"
+  },
+  "81": {
+    "desc": "中度阵雨",
+    "icon": "../../assets/weathers/icon/rainy_icon.png"
+  },
+  "82": {
+    "desc": "强烈阵雨",
+    "icon": "../../assets/weathers/icon/rainy_icon.png"
+  },
+  "85": {
+    "desc": "小雪",
+    "icon": "../../assets/weathers/icon/snowy_icon.png"
+  },
+  "86": {
+    "desc": "暴雪",
+    "icon": "../../assets/weathers/icon/snowy_icon.png"
+  },
+  "95": {
+    "desc": "雷暴",
+    "icon": "../../assets/weathers/icon/thunder_icon.png"
+  },
+  "96": {
+    "desc": "雷暴伴有轻微的冰雹",
+    "icon": "../../assets/weathers/icon/thunder_icon.png"
+  },
+  "99": {
+    "desc": "雷暴伴有严重的冰雹",
+    "icon": "../../assets/weathers/icon/thunder_icon.png"
+  }
+}
